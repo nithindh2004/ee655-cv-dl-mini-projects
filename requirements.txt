@@ -1,0 +1,24 @@
+# Core
+numpy>=1.24
+matplotlib>=3.7
+pillow>=10.0
+tqdm>=4.65
+pandas>=2.0
+seaborn>=0.12
+scikit-learn>=1.3
+opencv-python>=4.8,<5        # 4.x ships the Haar cascade XMLs used in project 01
+
+# Deep learning
+torch>=2.1
+torchvision>=0.16
+timm>=0.9                    # project 02 (EfficientNet-B3)
+
+# Landmark models (projects 01, 05). 0.10.14 still provides mp.solutions.face_mesh.
+mediapipe==0.10.14
+
+# project 06 data loader (optional if you use the Kaggle folder copy)
+tensorflow-datasets>=4.9
+tensorflow>=2.13
+
+# Notebooks
+jupyter

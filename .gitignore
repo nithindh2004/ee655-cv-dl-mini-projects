@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Datasets & large artefacts (download separately — see each folder's README)
+data_raw/
+dataset/
+tiny-imagenet-200/
+Blink Detection Dataset/
+*.zip
+*.mp4
+*.pth
+*.task
+results/
+outputs/
+cgan_output/
+blink_output/
