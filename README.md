@@ -1,14 +1,11 @@
 # Computer Vision & Deep Learning Projects
 
-Eight projects in computer vision and deep learning: video analysis, transfer learning, CNN architecture design, generative models, pose-based feature engineering, hand-crafted descriptors, neural regression and classical image processing.
+Eight Mini projects in computer vision and deep learning: video analysis, transfer learning, CNN architecture design, generative models, pose-based feature engineering, hand-crafted descriptors, neural regression and classical image processing.
 
 **Course:** EE655 Computer Vision & Deep Learning, IIT Kanpur · **Instructor:** Dr. Koteswar Rao Jerripothula
 
 Each project folder contains runnable code (`.py` + `.ipynb`), a **paper-style PDF report** (abstract, method, experiments, discussion, references), its figures and a short README. Projects are ordered by scope, with the most complete data-driven systems first.
 
-<p align="center">
-  <img src="01-blink-counter-video/figures/blink_timeline.png" width="85%" alt="Per-eye blink timeline"/>
-</p>
 
 ## Projects
 
